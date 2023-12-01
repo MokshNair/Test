@@ -1,2 +1,2 @@
 # task
-Task of HTML and all
+Tasks of HTML, CSS, JavaScript, BootStrap made for practice.
